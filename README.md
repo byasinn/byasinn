@@ -1,43 +1,33 @@
-# 👋 Hi, I'm Miguel Castro
+# Miguel Castro — Software Engineering & Data Science
 
-## 🚀 About Me
-I'm a passionate **Software Engineering student** with a keen interest in programming, systems development, and IT. Currently, I'm expanding my knowledge in **Python** and **C#**, along with **HTML**, **CSS**, **JavaScript**, and **SQL**.
+Construo soluções em **Python** que vão de aplicativos desktop a protótipos de Machine Learning.  
+Minha pegada é **arquitetura limpa**, pipelines de build e aprender rápido com projetos práticos.
 
-With over a decade of experience in **photography** and **advanced image editing** using tools like Photoshop and Lightroom, I also bring a background in **music production**, where I've developed strong creative and problem-solving skills. My goal is to combine my creative expertise with technical knowledge to contribute to innovative projects in software development.
+---
 
-## 🛠️ Skills
+## 🚀 Projetos em destaque
+- **aQuickDoc** — aplicativo para fotos de documentos com fluxo de recorte, edição e impressão  
+  ➤ [Repositório](https://github.com/byasinn/aquickdoc)  
 
-### Programming Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- **MoraMigos** — projeto autoral de software interativo (design de cutscenes, HUD e assets próprios).  
+  ➤ [itch.io](https://byasinn.itch.io) | [Repositório](https://github.com/byasinn/MoraMigos)  
 
-### Database Management
-- **SQL**: Database queries, data modeling, and management
-- **Database Design**: Experience with relational database modeling and schema creation
+- **ML Labs** *(em construção)* — repositório de notebooks práticos em Machine Learning: regressão, classificação, redes neurais.  
 
-### Design Tools
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
 
-### Other Skills
-- **IT Support & Networking Basics**: Knowledge of troubleshooting, basic network configuration, and system updates
-- **Version Control with Git/GitHub**: Proficient in using Git for version control and collaboration
+## 🧰 Stack
+- **Core:** Python (PySide6, OpenCV, Pillow, Pandas, NumPy)  
+- **ML/Data:** TensorFlow, Keras, Scikit-learn, SQL  
+- **Workflow:** Git/GitHub, ambientes virtuais, empacotamento com `pyproject`  
+- **Extras criativos:** Photoshop/Lightroom para assets  
 
-## 🎓 Education
-- **Software Engineering Student** at UNINTER
-- **High School Diploma**: Potência Master (EJA)
+---
 
-## 🌱 What I’m Learning
-- Diving deeper into **software development** and **programming concepts**
-- Working on personal projects to improve my skills in **Python**, **JavaScript**, and **SQL**
+## 🎯 Agora
+- Refatorando **aQuickDoc** com arquitetura de plugins e empacotamento.  
+- Publicando os primeiros notebooks de ML no **ML Labs**.  
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario/)
-[![GitHub followers](https://img.shields.io/github/followers/byasinn?style=for-the-badge)](https://github.com/byasinn?tab=followers)
+---
 
-## 📊 GitHub Stats
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=byasinn&show_icons=true&theme=radical)
-![GitHub commits](https://img.shields.io/github/commit-activity/y/byasinn/ToDoApp?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/byasinn/ToDoApp?style=for-the-badge)
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/SEU-USER) · **Email:** seuemail@dominio.com
