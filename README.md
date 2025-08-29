@@ -30,4 +30,4 @@ Minha pegada é **arquitetura limpa**, pipelines de build e aprender rápido com
 
 ---
 
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/SEU-USER) · **Email:** seuemail@dominio.com
+📫 **Contato:** [LinkedIn](www.linkedin.com/in/byasinner) · **Email:** inkcastro@gmail.com
